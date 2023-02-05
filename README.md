@@ -1,2 +1,2 @@
-for start project type < npm start > on terminal 
-for show data on database(get request) open : http://localhost:3000/binance
+To start the project, use the npm start command in the terminal
+Use the link http://localhost:3000/binance to display data in the database
